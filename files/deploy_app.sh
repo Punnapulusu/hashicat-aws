@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to Earnin's app. Replace this text with your own.
+  Welcome to Earnin's app on training. Replace this text with your own.
   <!-- END -->
 
   </div>
